@@ -1,1 +1,1 @@
-# linear-regression-from-scratch
+# FCC ALGORITHM IN PYTHON
